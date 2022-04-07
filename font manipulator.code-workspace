@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"name": "realtime drawing",
+			"path": "realtime drawing"
+		}
+	],
+	"settings": {
+		"liveServer.settings.port": 5501
+	}
+}
